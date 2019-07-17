@@ -1,2 +1,2 @@
-# Lekcja_1
-reszta zadań z 1 zadania domowego
+# Lesson_2
+homework
